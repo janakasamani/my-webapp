@@ -1,0 +1,23 @@
+.muiltr-2kezlg-MuiContainer-root {
+    margin-top: 100px;
+}
+.box-1{
+    background-color: rgba(179, 176, 176, 0.747);
+    flex-grow: 1;
+    height: 100vh;
+    overflow: auto;
+}
+.paper1 {
+    padding: 16px;
+    height: 350px;
+}
+.paper2 {
+    padding: 16px;   
+}
+
+.papertypo {
+    color: #50C878;
+}
+.first-row{
+    padding-bottom: 10px;
+}

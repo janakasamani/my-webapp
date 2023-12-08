@@ -1,0 +1,18 @@
+{
+    "welcome": {
+        "Dashboard": "Dashboard",
+        "Lang" : "Lang",
+        "Users" : "Users",
+        "Orders" : "Orders",
+        "Reports" : "Reports",
+        "Integrations": "Integrations"
+    },
+    "chart": {
+      "title1": "Applications",
+      "title2": "Total Applications",
+      "title3": "Bundles"
+    },
+    "Users": {
+      "Name": "CREATE NEW USER"
+    }
+}
